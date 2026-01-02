@@ -1,1 +1,3 @@
-Dashboard screenshots and charts.
+## 📊 Dashboard Preview
+
+![Ecommerce Dashboard](visuals/ecommerce_dashboard.png)
